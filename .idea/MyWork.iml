@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Educative.io" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/HackerRank" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LeetCode" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ClassWork" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
